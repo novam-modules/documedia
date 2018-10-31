@@ -1,0 +1,14 @@
+{
+    "name": "Documedia",
+    "alias": "documedia",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Documedia\\Providers\\DocumediaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
