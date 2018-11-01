@@ -19,7 +19,30 @@
                   <h4></h4>
                 </div>
                 <div class="card-body table-responsive">
-                    <data-table></data-table>
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Thumbnail</th>
+                                <th>Name</th>
+                                <th>Path</th>
+                                <th>Owner</th>
+                                <th>Usage</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td scope="row"></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
               </div>
           </section>
